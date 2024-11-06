@@ -12,4 +12,6 @@ This is a simple **CRUD** (Create, Read, Update, Delete) application developed u
 - ✔️ Basic form validation
 - 🖥️ GUI built with Java Swing
 
+## Screen Shot
+![Demo](Demo.jpg)
 
