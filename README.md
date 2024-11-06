@@ -13,5 +13,5 @@ This is a simple **CRUD** (Create, Read, Update, Delete) application developed u
 - 🖥️ GUI built with Java Swing
 
 ## Screen Shot
-![Demo](Demo.jpg)
+![Demo](\Demo.jpg)
 
